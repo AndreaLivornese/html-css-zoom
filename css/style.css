@@ -48,6 +48,10 @@ body{
     padding:10px;
 }
 
+.tools.row{
+    gap:18px;
+}
+
 .icon{
     font-size: 24px;
     color:white;
