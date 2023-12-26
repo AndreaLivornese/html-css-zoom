@@ -68,14 +68,14 @@ body{
 /* pannel */
 
 .container.row{
-    justify-content: flex-start;
+    justify-content: center;
     flex-wrap: wrap;
     gap:16px 6px;
 }
 
 .window{
     position: relative;
-    width: calc(100% / 7 - 6px / 7 * 6);
+    width: 180px;
     
 }
 
